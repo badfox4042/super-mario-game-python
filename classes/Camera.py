@@ -1,6 +1,6 @@
 from classes.Maths import Vec2D
 
-
+# Hola
 class Camera:
     def __init__(self, pos, entity):
         self.pos = Vec2D(pos.x, pos.y)
